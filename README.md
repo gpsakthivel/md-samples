@@ -1,3 +1,5 @@
 # md-samples
 
-This repo contains tutorial and learning about markdown.
+This repo contains the samples about the markdown tutorial and markdown cheatsheet.
+
+Online markdown editor: [Readme](https://readme.so/)
